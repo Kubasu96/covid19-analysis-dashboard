@@ -31,5 +31,5 @@ Includes cases, deaths, vaccination coverage, and mortality rates, with insights
 ---
 
 ## 🖼️ Preview  
-![Dashboard Preview](link-to-your-screenshot.png)  
+![Dashboard Preview](COVID 19 DASHBOARD.pdf 1_page-0001.jpg.png)  
 *(Replace with screenshot of your dashboard)*  
